@@ -1,6 +1,6 @@
 # AR Scholar
 
-This project aims to provide an augmented reality (AR) educational experience for kids, focusing on English and Hindi grammar and maths. The app utilizes image marker detection to project 3D models related to grammar and numerical concepts when specific markers are detected. Additionally, the app allows users to enter their names, which will be displayed within the app's environment.
+This project aims to provide an augmented reality (AR) educational experience for kids, focusing on English and Hindi grammar and maths. The app utilizes image marker detection to project 3D models related to grammar and numerical concepts when specific markers are detected. It also allows you to hear the sound of character which appears on the screen. Additionally, the app allows users to enter their names, which will be displayed within the app's environment.
 
 ## Features
 
